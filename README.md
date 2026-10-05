@@ -19,7 +19,7 @@ Phantom 的优势是价格门槛低，适合先体验或作为备用。最低档
 
 [注册 Phantom](https://pin.dianping.men/auth/register?code=wrDTxDzw)
 
-![Phantom 套餐价格](images/phantom-plans.png)
+![Phantom 套餐价格](images/phantom-plans.jpg)
 
 ## 赔钱机场
 
@@ -29,7 +29,7 @@ Phantom 的优势是价格门槛低，适合先体验或作为备用。最低档
 
 [注册赔钱机场](https://xn--mes358aby2apfg.com/register?code=Nr0wN2XZ&cover=sfw)
 
-![赔钱机场套餐价格](images/peiqian-plans.png)
+![赔钱机场套餐价格](images/peiqian-plans.jpg)
 
 ## 鲤云
 
@@ -37,7 +37,7 @@ Phantom 的优势是价格门槛低，适合先体验或作为备用。最低档
 
 [注册鲤云](https://ly888.liydl.com:8888/#/register?code=zXJlwuPz)
 
-![鲤云套餐价格](images/liyun-plans.png)
+![鲤云套餐价格](images/liyun-plans.jpg)
 
 ## COCODUCK VPN
 
@@ -45,7 +45,7 @@ COCODUCK VPN 提供个人、精英和家庭套餐。个人套餐 ¥17/月，包�
 
 [注册 COCODUCK VPN](https://www.cocoduck.site/auth/register?code=a26c768ad5)
 
-![COCODUCK VPN 套餐价格](images/cocoduck-plans.png)
+![COCODUCK VPN 套餐价格](images/cocoduck-plans.jpg)
 
 ## 轻语机场
 
@@ -53,7 +53,7 @@ COCODUCK VPN 提供个人、精英和家庭套餐。个人套餐 ¥17/月，包�
 
 [注册轻语机场](https://www.lajiaoyun.xyz/#/register?code=Rpxthv7W)
 
-![轻语机场套餐价格](images/qingyu-plans.png)
+![轻语机场套餐价格](images/qingyu-plans.jpg)
 
 ## Fastlink
 
@@ -61,7 +61,7 @@ Fastlink 的基础版为 ¥20/月，提供 100GB；加强版为 ¥40/月，提�
 
 [注册 Fastlink](https://a01.flaff9.cc/auth/register?code=NjIuET8q)
 
-![Fastlink 套餐价格](images/fastlink-plans.png)
+![Fastlink 套餐价格](images/fastlink-plans.jpg)
 
 ## 选择建议
 
