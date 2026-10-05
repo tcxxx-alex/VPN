@@ -5,4 +5,10 @@ description: "2026年性价比机场推荐，比较 Phantom、赔钱机场、鲤
 lang: zh-CN
 ---
 
+<style>
+.markdown-body table { display: block; overflow-x: auto; }
+.markdown-body table th:last-child,
+.markdown-body table td:last-child { white-space: nowrap; }
+</style>
+
 {% include_relative README.md %}
