@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tcxxx-alex.github.io/VPN/sitemap.xml
