@@ -12,6 +12,7 @@
 | COCODUCK VPN | ¥17/月 | 100GB，不限设备 | 支持全节点、4K 流媒体与全平台客户端；新用户赠送 2GB | [立即注册](https://www.cocoduck.site/auth/register?code=a26c768ad5) |
 | 轻语机场 | ¥10/月 | 100GB，最多 5 台设备 | 套餐选择丰富；新用户赠送 5GB | [立即注册](https://www.lajiaoyun.xyz/#/register?code=Rpxthv7W) |
 | Fastlink | ¥20/月 | 100GB，不限设备 | BGP、IPLC 与 Anycast；支持 AI、4K/8K 和全平台客户端 | [立即注册](https://a01.flaff9.cc/auth/register?code=NjIuET8q) |
+| 三毛机场 | ¥3/年 | 5GB/月起，设备无限制 | 超低价年付；解锁 ChatGPT 与流媒体 | [立即注册](https://xn--ehqx7tcnnope.com/#/register?code=gMgoePss) |
 
 ## Phantom
 
@@ -62,6 +63,14 @@ Fastlink 的基础版为 ¥20/月，提供 100GB；加强版为 ¥40/月，提�
 [注册 Fastlink](https://a01.flaff9.cc/auth/register?code=NjIuET8q)
 
 ![Fastlink 套餐价格](images/fastlink-plans.jpg)
+
+## 三毛机场
+
+三毛机场主打超低价：轻量套餐 ¥3/年，每月 5GB；大流量套餐 ¥5/月，每月 1200GB；超大流量套餐 ¥8/月，每月 3000GB。设备无限制，标注解锁 ChatGPT、各类流媒体，支持全平台客户端，适合预算极低或想先低成本试用的用户。
+
+[注册三毛机场](https://xn--ehqx7tcnnope.com/#/register?code=gMgoePss)
+
+![三毛机场套餐价格](images/sanmao-plans.jpg)
 
 ## 选择建议
 
